@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stardust890
 - 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning very basic coding
+- 🌱 I’m currently learning python
 
 
 
